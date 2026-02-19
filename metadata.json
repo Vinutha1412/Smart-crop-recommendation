@@ -1,0 +1,5 @@
+{
+  "name": "AgroSuggest: Smart Crop Recommendation",
+  "description": "An AI-powered system that recommends the best crops to plant based on soil composition and environmental factors.",
+  "requestFramePermissions": ["geolocation"]
+}
